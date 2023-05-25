@@ -2,5 +2,5 @@ version : "3.0"
 
 services:
   python-app:
-    image : ${kmmiso}/oss_0525
+    image : ${Kmmiso}/oss_0525
     build : .
